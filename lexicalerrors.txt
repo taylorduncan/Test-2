@@ -1,0 +1,5 @@
+int 3x = 2; // variable name shouldn't start with a number
+String x = "cat in the hat but don't snack; //missing ending quotations
+int x = 2$2; //$ shouldnt be in number range
+/* //missing ending comment
+prntf(); //missing i 

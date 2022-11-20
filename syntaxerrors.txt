@@ -1,0 +1,10 @@
+while(x<100)(b)
+int x = 2
+x = x+1
+String x = "cat in the hat but don't snack" //missing ;
+x=x+1;$ // $ shouldn't be there
+for (x=0; x < arr.len < x++) //missing int
+while( x > 0 (x--); //missing )
+! //invalid token !
+^ //invalid token ^
+16! //invalid token !
